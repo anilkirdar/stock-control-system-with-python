@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "results": 2,
+  "data": [
+    {"id": 0, "name": "Apple", "quantity": 22, "price": 5},
+    {"id": 1, "name": "Banana", "quantity": 12, "price": 8}
+  ]
+}

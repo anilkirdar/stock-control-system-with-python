@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "results": 4,
+  "data": [
+    {"id": 0, "role": "admin", "name": "admin", "password": "1234"},
+    {"id": 1, "role": "user", "name": "anil123", "password": "1234"},
+    {"id": 2, "role": "user", "name": "test1", "password": "test1"},
+    {"id": 2, "role": "user", "name": "test2", "password": "test2"}
+  ]
+}
